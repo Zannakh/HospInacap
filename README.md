@@ -19,17 +19,17 @@ Este proyecto representa una página informativa ficticia de un hospital privado
 ---
 
 ## 📁 Estructura del proyecto
-HospInacap/
-│
-├── index.html # Página principal
-├── servicios.html # Página de servicios (placeholder)
-├── nosotros.html # Página informativa (placeholder)
-├── css/
-│ └── estilos.css # Archivo principal de estilos
-├── img/
-│ ├── Banner.png # Banner superior
-│ └── revex.jpg # Imagen de sección Revisión de Exámenes
-└── README.md # Este archivo
+- HospInacap/
+- │
+- ├── index.html # Página principal
+- ├── servicios.html # Página de servicios (placeholder)
+- ├── nosotros.html # Página informativa (placeholder)
+- ├── css/
+- │ └── estilos.css # Archivo principal de estilos
+- ├── img/
+- │ ├── Banner.png # Banner superior
+- │ └── revex.jpg # Imagen de sección Revisión de Exámenes
+- └── README.md # Este archivo
 
 ---
 
